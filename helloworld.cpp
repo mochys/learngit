@@ -9,5 +9,7 @@ int main()
     cout<<"hello branch_dev"<<endl;
     //这是我在developer1分支中修改的内容
     cout<<"hello developer1"<<endl;
+    //这是我在developer2分支中修改的内容
+    cout<<"hello developer2"<<endl;
     return 0;
 }
